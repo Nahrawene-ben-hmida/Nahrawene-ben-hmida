@@ -129,12 +129,11 @@ A **Final Year Software Engineering Student** 🚀 at faculty of sciences of Tun
 ### 👉 Mobile Frameworks 
 <p align="left">
   &emsp;
-  	
-
+  
   
    <a target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Flutter-3880FF?logo=flutter&logoColor=white/>
-  </a> 
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Flutter-3880FF?logo=flutter&logoColor=white"/>
+  </a>   &emsp;
  
  </p>
 
