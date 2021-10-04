@@ -158,8 +158,6 @@ A **Final Year Software Engineering Student** 🚀 at faculty of sciences of Tun
 ### 👉 Machine learning using Python Libraries
 <p align="left">
   &emsp;
-    <a href=""><img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?logo=scikit-learn&logoColor=white"></a>
-  &emsp;
     <a href=""><img alt="pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?logo=pandas&logoColor=white"></a>  
      &emsp;
     <a href=""><img alt="nltk" src="https://img.shields.io/badge/NLTK-Python-blue"></a>  
@@ -168,7 +166,6 @@ A **Final Year Software Engineering Student** 🚀 at faculty of sciences of Tun
       &emsp;
     <a href=""><img alt="matplot" src="https://img.shields.io/badge/Matplotlib-Python-red"></a>  
       &emsp;
-    <a href=""><img alt="gnsim" src="https://img.shields.io/badge/Gensim-Python-blue"></a>  
     
  </p>
 
