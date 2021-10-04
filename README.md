@@ -183,10 +183,11 @@ A **Final Year Software Engineering Student** 🚀 at faculty of sciences of Tun
 
 ### 👉 Web Scraping using Python Libraries
 <p align="left">
+	  &emsp;
+    <a href=""><img alt="selinium" src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white"></a> 
   &emsp;
     <a href=""><img alt="bsoup" src="https://img.shields.io/badge/Beautiful%20Soup-Python-red"></a>
-  &emsp;
-    <a href=""><img alt="selinium" src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white"></a>  
+ 
       &emsp;
     <a href=""><img alt="rqst" src="https://img.shields.io/badge/Requests-Python-blue"></a>  
 
