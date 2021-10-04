@@ -14,7 +14,7 @@ A **Final Year Software Engineering Student** 🚀 at faculty of sciences of Tun
 ### Let's Connect :coffee:
 <p align="center">
 	<a href="https://github.com/Nahrawene-ben-hmida"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href=https://www.linkedin.com/in/nahraouene-ben-hmida-27b89b195"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.linkedin.com/in/nahraouene-ben-hmida-27b89b195/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
     <a href=""><img src="https://img.icons8.com/bubbles/50/000000/web.png"/></a>
 </p>
 
