@@ -133,7 +133,7 @@ A **Final Year Software Engineering Student** 🚀 at faculty of sciences of Tun
 
   
    <a target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Ionic-3880FF?logo=ionic&logoColor=white"/>
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Flutter-3880FF?logo=flutter&logoColor=white/>
   </a> 
  
  </p>
@@ -147,6 +147,8 @@ A **Final Year Software Engineering Student** 🚀 at faculty of sciences of Tun
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white"/></a>
       &emsp;
     <a href=""><img alt="mongo" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+	&emsp;
+    <a href=""><img alt="neo4j" src="https://img.shields.io/badge/Neo4J-3880FF?logo=neo4j&logoColor=white"></a>
 
  </p>
 
