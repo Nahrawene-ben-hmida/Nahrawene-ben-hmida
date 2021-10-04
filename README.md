@@ -154,15 +154,14 @@ A **Final Year Software Engineering Student** 🚀 at faculty of sciences of Tun
 ### 👉 Cloud Hosting
 <p align="left">
   &emsp;
+    <a href=""><img src ="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white"></a>
+ &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
-  &emsp;
+   &emsp;
     <a href=""><img src ="https://img.shields.io/badge/microsoft%20azure-0089D6?logo=microsoft-azure&logoColor=white"></a>
   &emsp;
     <a href=""><img src ="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white"></a>
      &emsp;
-    <a href=""><img src ="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazon-aws&logoColor=white"></a>
  </p>
 
 ### 👉 Machine learning using Python Libraries
