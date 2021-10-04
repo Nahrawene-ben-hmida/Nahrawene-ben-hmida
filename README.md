@@ -103,21 +103,12 @@ A **Final Year Software Engineering Student** 🚀 at faculty of sciences of Tun
 ### 👉 Backend Development
 <p align="left"> 
  &emsp; 
-  <a  target="_blank"> 
-   <img alt="django" src="https://img.shields.io/badge/django-%23092E20.svg?logo=django&logoColor=white">
-  </a>  
-   &emsp; 
- 
-  <a  target="_blank"> 
-   <img alt="flask" src="https://img.shields.io/badge/flask-%23000.svg?logo=flask&logoColor=white">
-  </a>   
-  &emsp;
   <a  target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/FastAPI-005571?&logo=fastapi">
+    <img alt="CSS" src="https://img.shields.io/badge/RestPI-005571?&logo=restapi">
   </a> 
    &emsp;
   <a  target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?logo=laravel&logoColor=white"/>
+    <img alt="Bootstrap" src="https://img.shields.io/badge/SpringCloud-%23FF2D20.svg?logo=springcloud&logoColor=white"/>
   </a>
    &emsp;
   <a  target="_blank"> 
