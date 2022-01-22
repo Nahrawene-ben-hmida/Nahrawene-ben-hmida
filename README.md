@@ -21,7 +21,7 @@ A **Final Year Software Engineering Student** 🚀 at faculty of sciences of Tun
 
 <br>
 
-<!--  ### My Github Infos
+ ### My Github Infos
 
 <a href="https://github.com/Nahrawene-ben-hmida"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Nahrawene-ben-hmida&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br>
@@ -31,13 +31,13 @@ A **Final Year Software Engineering Student** 🚀 at faculty of sciences of Tun
 <br>
 <p align="center"> <a href=""><img src="https://github-profile-trophy.vercel.app/?username=Nahrawene-ben-hmida&margin-w=5" alt="Nahrawene-ben-hmida" /></a> </p>
 <br>
-<p align="center"> <a href=""><img src="https://github-readme-stats.vercel.app/api?username=Nahrawene-ben-hmida&count_private=true&hide=stars,prs,issues,contribs" alt="Nahrawene-ben-hmida" /></a> </p> -->
+<p align="center"> <a href=""><img src="https://github-readme-stats.vercel.app/api?username=Nahrawene-ben-hmida&count_private=true&hide=stars,prs,issues,contribs" alt="Nahrawene-ben-hmida" /></a> </p>
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p> 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nahrawene-ben-hmida&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=Nahrawene-ben-hmida&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
-<br><br><br><br><br>
+<br><br><br><br><br> -->
 
 ## 🛠️ My Skills
 
